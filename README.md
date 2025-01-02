@@ -18,7 +18,7 @@ With the increasing number of images uploaded to various platforms, the lack of 
 ## Methodology
 1. **Training a CNN Model from Scratch**
    - A Convolutional Neural Network (CNN) is created to classify landmarks. This step involves visualizing the dataset, preparing it for training, and building the network architecture from scratch. Emphasis is placed on the decision-making process regarding data processing and the structure of the network. The best-performing model is then exported using Torch Script.
-   - **Corresponding Jupyter Notebook:** [cnn_from_scratch.ipynb]
+   - **Corresponding Jupyter Notebook:** [cnn_from_scratch.ipynb](https://github.com/raneem-01/Landmark-Classification/blob/main/cnn_from_scratch.ipynb)
 
 2. **Using Transfer Learning**
    - A CNN is established for landmark classification using Transfer Learning. Various pre-trained models are explored, and a specific model is selected for the classification task. This process includes training and testing the transfer-learned network, along with an explanation of the rationale behind choosing the pre-trained model. The optimal transfer learning solution is exported using Torch Script.
