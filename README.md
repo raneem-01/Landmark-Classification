@@ -37,12 +37,16 @@ With the increasing number of images uploaded to various platforms, the lack of 
    - Run the following command:
     ```bash
     conda create --name cnn_landmark_project -y python=3.7.6
-   - conda activate cnn_landmark_project
-4. Install the required packages:
-   - pip install -r requirements.txt
-5. Launch Jupyter Lab:
-   - pip install jupyterlab
-   - jupyter lab
+    conda activate cnn_landmark_project
+3. Install the required packages:
+   - Run the following command:
+   ```bash
+   pip install -r requirements.txt
+4. Launch Jupyter Lab:
+   - Run the following command:
+   ```bash
+   pip install jupyterlab
+   jupyter lab
 
 
 ##
