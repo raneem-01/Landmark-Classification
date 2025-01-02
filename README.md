@@ -36,5 +36,5 @@ With the increasing number of images uploaded to various platforms, the lack of 
    pip install jupyterlab
    jupyter lab
 
-
+##
 **This project is for the CNN Udacity course.**
