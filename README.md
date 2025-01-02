@@ -22,7 +22,7 @@ With the increasing number of images uploaded to various platforms, the lack of 
 
 2. **Using Transfer Learning**
    - A CNN is established for landmark classification using Transfer Learning. Various pre-trained models are explored, and a specific model is selected for the classification task. This process includes training and testing the transfer-learned network, along with an explanation of the rationale behind choosing the pre-trained model. The optimal transfer learning solution is exported using Torch Script.
-   - **Corresponding Jupyter Notebook:** [transfer_learning.ipynb]
+   - **Corresponding Jupyter Notebook:** [transfer_learning.ipynb](https://github.com/raneem-01/Landmark-Classification/blob/main/transfer_learning.ipynb)
 
 ## Getting Started
 
