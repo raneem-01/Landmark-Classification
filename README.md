@@ -35,11 +35,8 @@ With the increasing number of images uploaded to various platforms, the lack of 
 1. Clone the repository.
 2. Create and activate a new conda environment:
    - Run the following command:
-   -
-##
-<tab><tab>code/conda create --name cnn_landmark_project -y python=3.7.6
-
-conda create --name cnn_landmark_project -y python=3.7.6
+    ```bash
+    conda create --name cnn_landmark_project -y python=3.7.6
    - conda activate cnn_landmark_project
 4. Install the required packages:
    - pip install -r requirements.txt
